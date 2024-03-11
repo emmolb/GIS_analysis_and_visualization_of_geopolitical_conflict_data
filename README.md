@@ -1,4 +1,4 @@
-GIS analysis and visualization of geopolitical conflict data
+# GIS analysis and visualization of geopolitical conflict data
 
 
 
