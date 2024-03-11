@@ -1,4 +1,4 @@
-# GIS_analysis_and_visualization_of_geopolitical_conflict_data
+GIS analysis and visualization of geopolitical conflict data
 
 
 
