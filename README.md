@@ -1,6 +1,6 @@
 # GIS analysis and visualization of geopolitical conflict data
 
-
+Analyzing and visualizing geopolitical conflict data using Geographic Information Systems (GIS) can provide valuable insights into the spatial patterns and dynamics of conflicts
 
 
 ![ACLED_version7](https://github.com/emmolb/GIS_analysis_and_visualization_of_geopolitical_conflict_data/assets/34507394/37b3a74a-4028-453d-bea4-d8765c8c7b43)
